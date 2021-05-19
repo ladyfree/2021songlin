@@ -1,0 +1,10 @@
+# end 사용하여 한줄로 출력하기
+print(1, end = '')
+print(2, end = '')
+print(3)
+print(4, end = ',')
+print(5, end = ',')
+print(6)
+print(1024, end = ' x ')
+print(690, end = ' x ')
+print(78)
