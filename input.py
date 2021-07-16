@@ -9,3 +9,4 @@ print('이름 : ' + name)
 print('나이 : ' + age)
 print('=' * 40)
 
+print("asdfasd")
